@@ -1,4 +1,4 @@
-# Hallo semua👋! 
+aling="center" # Hallo semua👋! 
 
 Perkenalkan nama saya **Bima Prasetio**.  
 Saya adalah seorang Peserta **MBKM Program MSIB Cycle 4** di [Dicoding](https://www.dicoding.com/).  

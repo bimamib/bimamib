@@ -1,4 +1,5 @@
-aling="center" # Hallo semua👋! 
+<h1 align="center">Hallo semua👋!</h1>
+<h3 align="center">I have skills in the field of Informatics Engineering.</h3>
 
 Perkenalkan nama saya **Bima Prasetio**.  
 Saya adalah seorang Peserta **MBKM Program MSIB Cycle 4** di [Dicoding](https://www.dicoding.com/).  

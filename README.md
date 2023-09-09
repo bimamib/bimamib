@@ -1,6 +1,9 @@
 <h1 align="center">Hallo semua👋!</h1>
-<h3 align="center">I have skills in the field of Informatics Engineering.</h3>
+<p align="justify>
+  Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya yang saya kerjakan, Baik dari latihan dan juga project nantinya. Terima Kasih
+</p>
 
+## 
 Perkenalkan nama saya **Bima Prasetio**.  
 Saya adalah seorang Alumni **MBKM Program MSIB Cycle 4** di [Dicoding](https://www.dicoding.com/).  
 Saya belajar dengan sungguh-sungguh pada **Program MSIB Tahun 2023**.  

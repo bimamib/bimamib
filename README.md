@@ -17,13 +17,15 @@ Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logi
 <a href="https://github.com/bimamib">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
-</a>
   
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />
-</p>
+<div align="center">
+  <a>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />
+  </p>
+</div>
 
 <p align="center">
   <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>

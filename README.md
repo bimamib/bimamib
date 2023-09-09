@@ -26,9 +26,6 @@ Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logi
 </p>
   
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />
 </p>
 <p>

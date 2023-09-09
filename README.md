@@ -24,5 +24,5 @@ Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logi
 </p>
 
 <p>
-  <a href="https://github.com/nekoto-kun/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
+  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>

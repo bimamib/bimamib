@@ -9,8 +9,8 @@ Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logi
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bima-prasetio" height="30" width="40" /></a>
-<a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimamib_16" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-    alt.svg" alt="bima-prasetio" height="30" width="40" /></a>
+  <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimamib_16" height="30" width="40" /></a>
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@ Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logi
   </a>
 </p>
   
-<div align="right">
+<div align="left">
   <p>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
   </p>

@@ -1,13 +1,6 @@
 <h1 align="center">Hallo semua👋!</h1>
 Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya yang saya kerjakan, Baik dari latihan dan juga project nantinya. Terima Kasih
 
-## 
-Perkenalkan nama saya **Bima Prasetio**.  
-Saya adalah seorang Alumni **MBKM Program MSIB Cycle 4** di [Dicoding](https://www.dicoding.com/).  
-Saya belajar dengan sungguh-sungguh pada **Program MSIB Tahun 2023**.  
-Saya telah menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/MRZM4O590XYQ).  
-Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logic 101) dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/ERZR0NV72XYV).
-
 ## Pengalaman
 - MSIB Dicoding Cycle 4 2023
 - Bangkit Academy Batch 2

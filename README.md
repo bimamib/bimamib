@@ -1,5 +1,5 @@
 <h1 align="center">Hallo semua👋!</h1>
-Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya yang saya kerjakan, Baik dari latihan dan juga project nantinya. Terima Kasih
+Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya, Baik dari latihan dan juga project nantinya. Terima Kasih
 
 ## Pengalaman
 - MSIB Dicoding Cycle 4 2023

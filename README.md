@@ -1,11 +1,15 @@
 <h1 align="center">Hallo semua👋!</h1>
 <h3 align="center">I have skills in the field of Informatics Engineering.</h3>
 
-Perkenalkan nama saya **Bima Prasetio**.  
+## Perkenalkan nama saya **Bima Prasetio**.  
 Saya adalah seorang Alumni **MBKM Program MSIB Cycle 4** di [Dicoding](https://www.dicoding.com/).  
 Saya belajar dengan sungguh-sungguh pada **Program MSIB Tahun 2023**.  
 Saya telah menyelesaikan kelas Memulai Dasar Pemrograman untuk Menjadi Pengembang Software dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/MRZM4O590XYQ).  
-Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logic 101) dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/ERZR0NV72XYV).  
+Saya telah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programing Logic 101) dengan dibekali [sertifikasi dari Dicoding](https://www.dicoding.com/certificates/ERZR0NV72XYV).
+
+## Pengalaman 
+
+## Connect With Me
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

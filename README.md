@@ -1,7 +1,5 @@
 <h1 align="center">Hallo semua👋!</h1>
-<p align="justify>
-  Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya yang saya kerjakan, Baik dari latihan dan juga project nantinya. Terima Kasih
-</p>
+Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya yang saya kerjakan, Baik dari latihan dan juga project nantinya. Terima Kasih
 
 ## 
 Perkenalkan nama saya **Bima Prasetio**.  

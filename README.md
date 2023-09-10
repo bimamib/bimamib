@@ -32,9 +32,11 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 </p>
 
 ## Tools-tools yang dipelajari
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="center">
+   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />

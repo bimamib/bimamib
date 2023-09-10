@@ -1,7 +1,9 @@
 <h1 align="center">Hallo semua👋!</h1>
 Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya, Baik dari latihan dan juga project nantinya. Terima Kasih
 
-## Pengalaman
+<p align="center">
+  ## Pengalaman
+</p>
 - MSIB Dicoding Cycle 4 2023
    * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)
    * Pengenalan ke Logika Pemrograman (Programming Logic 101) [Sertifikat](https://www.dicoding.com/certificates/4EXGNWMLQZRL)

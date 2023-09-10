@@ -1,7 +1,7 @@
 <h1 align="center">Hallo semua👋!</h1>
 Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya, Baik dari latihan dan juga project nantinya. Terima Kasih
 
-===
+---
 
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023
@@ -17,15 +17,11 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
       * Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW)
 - Bangkit Academy Batch 2
 
-===
-
 ## Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a>
   <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"   alt="bimamib_16" height="30" width="40" /></a>
 </p>
-
-===
 
 ## Github-Static
 <p align="left">

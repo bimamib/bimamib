@@ -23,6 +23,13 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
   <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"   alt="bimamib_16" height="30" width="40" /></a>
 </p>
 
+---
+
+## Tools-tools yang dipelajari
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
+
 ## Github-Static
 <p align="left">
 <a href="https://github.com/bimamib">
@@ -30,11 +37,6 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## Tools-tools yang dipelajari
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />

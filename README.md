@@ -33,9 +33,9 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 
 ## Tools-tools yang dipelajari
 <p align="center">
-   <a ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)/></a>
-   <a ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)/></a>
-   <a ![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)/></a>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
 </p>
 
 <p align="center">

@@ -25,12 +25,12 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 
 ---
 
-## Tools-tools yang dipelajari
+### Tools-tools yang telah dipelajari
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-5b39c6?style=for-the-badge&logo=kotlin&logoColor=white)
 
-## Github-Static
+### Github-Static
 <p align="left">
 <a href="https://github.com/bimamib">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

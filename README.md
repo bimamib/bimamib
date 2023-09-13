@@ -20,6 +20,7 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 ## Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a>
+   <br>
   <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"   alt="bimamib_16" height="30" width="40" /></a>
 </p>
 

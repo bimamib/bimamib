@@ -33,8 +33,8 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 ### Github-Static
 <p align="left">
 <a href="https://github.com/bimamib">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 

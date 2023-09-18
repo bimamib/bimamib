@@ -57,11 +57,3 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 <p align="center">
   <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake-dark.svg" width="100%">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
-      <img alt="Snake" src="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
-    </picture>
-</div>

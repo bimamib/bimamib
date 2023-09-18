@@ -1,5 +1,5 @@
 <h1 align="center">Hallo semua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>!</h1>
-Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya, Baik dari latihan dan juga project nantinya. Terima Kasih
+<p align="justify">Introducing, my name is Bima Prasetio, I am an active student at Universitas Muhammadiyah Prof. There I study very seriously and enthusiastically to pursue a career as a reliable programmer. I am currently participating in the Dicoding MBKM MSIB Program "Front-End Web and Back-End Developer" in 2023 and in the same year I participated in the Bangkit Batch 2 Program "Learning Path Mobile Development". Keep up the Good Work and Don't Forget to Smile :).</p>
 
 ---
 

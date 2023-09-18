@@ -1,4 +1,4 @@
-<h1 align="center">Hallo semua👋!</h1>
+<h1 align="center">Hallo semua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua repository saya, Baik dari latihan dan juga project nantinya. Terima Kasih
 
 ---
@@ -57,3 +57,11 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
 <p align="center">
   <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>
+
+<div align="center">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake-dark.svg" width="100%">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
+    </picture>
+</div>

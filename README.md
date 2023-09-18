@@ -62,6 +62,6 @@ Saya Bima Prasetio, ini adalah profile github saya yang di mana berisi semua rep
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake-dark.svg" width="100%">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
-      <img align="center" src="https://github.com/bimamib/bimamib/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+      <img alt="Snake" src="https://raw.githubusercontent.com/bimamib/bimamib/output/github-contribution-grid-snake.svg" width="100%">
     </picture>
 </div>

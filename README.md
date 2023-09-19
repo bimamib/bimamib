@@ -50,7 +50,7 @@
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--------------
+---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />

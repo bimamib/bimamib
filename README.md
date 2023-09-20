@@ -5,8 +5,6 @@
    <img src="https://media.giphy.com/media/3o7aDazype4DgaruJq/giphy.gif" />
 </p>
 
-<img src="https://cdn3.emoji.gg/emojis/9604-pixelghost.gif" width="64px" height="64px" alt="PixelGhost" /> | <a href="https://emoji.gg/emoji/2789-dancingpopcat"><img src="https://cdn3.emoji.gg/emojis/2789-dancingpopcat.gif" width="64px" height="64px" alt="DancingPopCat"></a>
-
 ---
 
 ## Pengalaman

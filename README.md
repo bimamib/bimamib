@@ -57,6 +57,8 @@
 </a>
 </p>
 
+<img src="https://media.giphy.com/media/hof5uMY0nBwxyjY9S2/giphy.gif" />
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />
 </p>

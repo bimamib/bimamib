@@ -2,7 +2,7 @@
 <p align="justify">Introducing, my name is Bima Prasetio, I am an active student at the University of Muhammadiyah Prof. Dr. Hamka There I study very seriously and enthusiastically to pursue a career as a reliable programmer. I have participated in the Dicoding MBKM MSIB Program "Front-End Web and Back-End Developer" in 2023 and in the same year I participated in the Bangkit Batch 2 Program "Learning Path Mobile Development". Keep up the Good Work and Don't Forget to Smile :).</p>
 
 <p align="center">
-   <img src="splotch = https://media.giphy.com/media/xT9IgI7nHm6x1QNyeY/giphy.gif, has_mask=True" />
+   <img src="https://media.giphy.com/media/xT9IgI7nHm6x1QNyeY/giphy.gif, has_mask=True" />
 </p>
 
 ---

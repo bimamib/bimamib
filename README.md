@@ -43,8 +43,6 @@
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 </div>
 
-<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/giphy.gif" width="30px"/>
-
 ### Github-Static
 <p align="justify">
 <a href="https://github.com/bimamib">

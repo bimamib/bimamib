@@ -56,10 +56,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=false" />
 </p>
 <p align="center">
   <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bimamib&theme=tokyonight-duo)](https://git.io/streak-stats)

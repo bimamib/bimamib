@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
+</p>
+
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023
       * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)
@@ -58,7 +62,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=false" />
 </p>
-<p align="center">
-  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
-</p>
-

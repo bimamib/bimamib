@@ -1,4 +1,6 @@
-<h1 align="center">Hallo semua<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>!</h1> 
+<h1 align="center">
+   Hallo semua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>!
+</h1> 
 <p align="justify">Introducing, my name is Bima Prasetio, I am an active student at the University of Muhammadiyah Prof. Dr. Hamka There I study very seriously and enthusiastically to pursue a career as a reliable programmer. I have participated in the Dicoding MBKM MSIB Program "Front-End Web and Back-End Developer" in 2023 and in the same year I participated in the Bangkit Batch 2 Program "Learning Path Mobile Development". Keep up the Good Work and Don't Forget to Smile :).</p>
 
 <p align="center">

@@ -1,5 +1,8 @@
-<h1 align="center"> 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=FFBB5C&width=435&lines=Hallo+Everyone!;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!)](https://git.io/typing-svg)
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=FFBB5C&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!">
+    </a>
+    
 </h1>
 
 <p align="justify">Introducing, my name is Bima Prasetio, I am an active student at the University of Muhammadiyah Prof. Dr. Hamka There I study very seriously and enthusiastically to pursue a career as a reliable programmer. I have participated in the Dicoding MBKM MSIB Program "Front-End Web and Back-End Developer" in 2023 and in the same year I participated in the Bangkit Batch 2 Program "Learning Path Mobile Development". Keep up the Good Work and Don't Forget to Smile :).</p>

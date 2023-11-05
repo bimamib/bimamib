@@ -66,3 +66,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true" />
 </p>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7123697614134398977" height="998" width="504" frameborder="0" allowfullscreen="" title="Posting tersemat"></iframe>

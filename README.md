@@ -10,6 +10,10 @@
    <img src="https://media.giphy.com/media/3o7aDazype4DgaruJq/giphy.gif" />
 </p>
 
+<p align="center">
+   <img src="![5d384d81a25ab50a68af17094ccac3b0](https://github.com/bimamib/bimamib/assets/120712786/6fe952a6-2a92-45c8-8c1b-044e85984b3d)"/>
+</p>
+
 ---
 
 <p align="center">

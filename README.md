@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <img src="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005">
+    <img src="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005"> alt="Smile" width="249" height="249" align="right"></a>
 </div>
 
 ---

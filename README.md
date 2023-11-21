@@ -10,7 +10,7 @@
    <img src="https://media.giphy.com/media/3o7aDazype4DgaruJq/giphy.gif" />
 </p>
 
-<img src="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005" align="center"></a>
+<img src="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005.gif" align="center">
 
 ---
 

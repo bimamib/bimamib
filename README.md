@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   <img src="https://images.app.goo.gl/gxEffo1FifACwJvk6"/>
+   <img src="https://images.app.goo.gl/gxEffo1FifACwJvk6.gif"/>
 </p>
 
 ---

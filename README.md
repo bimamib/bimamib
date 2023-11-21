@@ -10,8 +10,9 @@
    <img src="https://media.giphy.com/media/3o7aDazype4DgaruJq/giphy.gif" />
 </p>
 
-
-<![5d384d81a25ab50a68af17094ccac3b0](https://github.com/bimamib/bimamib/assets/120712786/07262516-53ef-4139-82ae-baa3ead63f4a) align="center" />
+<div align="center">
+    <div class="tenor-gif-embed" data-postid="24280005" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005">Idleglance Amv GIF</a>from <a href="https://tenor.com/search/idleglance-gifs">Idleglance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 ---
 

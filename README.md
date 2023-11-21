@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-    <div class="tenor-gif-embed" data-postid="24280005" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005">Idleglance Amv GIF</a>from <a href="https://tenor.com/search/idleglance-gifs">Idleglance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="https://tenor.com/view/idleglance-amv-anime-edit-anime-aesthetic-takt-op-destiny-gif-24280005"> alt="Idleglance Amv GIF" </a>
 </div>
 
 ---

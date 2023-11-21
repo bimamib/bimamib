@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-    <img src="![5d384d81a25ab50a68af17094ccac3b0](https://github.com/bimamib/bimamib/assets/120712786/07262516-53ef-4139-82ae-baa3ead63f4a)" />
+    ![5d384d81a25ab50a68af17094ccac3b0](https://github.com/bimamib/bimamib/assets/120712786/07262516-53ef-4139-82ae-baa3ead63f4a)
 </p>
-
 ---
 
 <p align="center">

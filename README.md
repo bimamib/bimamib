@@ -10,10 +10,6 @@
    <img src="https://media.giphy.com/media/3o7aDazype4DgaruJq/giphy.gif" />
 </p>
 
-<p align="center">
-   <img src="https://images.app.goo.gl/gxEffo1FifACwJvk6.gif"/>
-</p>
-
 ---
 
 <p align="center">

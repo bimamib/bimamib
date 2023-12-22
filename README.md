@@ -67,4 +67,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true" />
 </p>
 
-![readmebox](https://github.com/bimamib/bimamib/assets/120712786/6ea24296-5835-493e-9cb5-09c2475b50ec)
+![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)

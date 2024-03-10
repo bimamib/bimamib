@@ -54,7 +54,6 @@
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ"/>
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
    <img width="24" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-    <img width="24" src="https://user-images.githubusercontent.com/120712786/0531ce0b-a9d6-4224-b726-445f27253637.png" alt="EJS" title="EJS"/>
 " alt="Postman" title="Postman"/>
 </div>
 

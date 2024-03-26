@@ -76,3 +76,9 @@
 </p>
 
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
+
+###
+
+<img src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" alt="Snake animation" />
+
+###

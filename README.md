@@ -16,6 +16,14 @@
   <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/bimamib/count.svg?"  />
+</div>
+
+###
+
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023
       * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)

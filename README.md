@@ -23,9 +23,8 @@
 </div>
 
 ###
-<p align="center">
-    https://github-stats-alpha.vercel.app/api?username={bimamib}&cc=000&tc=fff&ic=fff&bc=000
-</p>
+    
+https://github-stats-alpha.vercel.app/api?username={bimamib}&cc=000&tc=fff&ic=fff&bc=000
 
 Where cc = Card Color
       tc = Text Color

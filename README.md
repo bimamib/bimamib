@@ -23,13 +23,6 @@
 </div>
 
 ###
-    
-https://github-stats-alpha.vercel.app/api?bimamib={bimamib}&cc=000&tc=fff&ic=fff&bc=000
-
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
 
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023

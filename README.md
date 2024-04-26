@@ -71,8 +71,6 @@
    <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight"/></a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimamib&layout=compact)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true" />
 </p>

@@ -47,7 +47,7 @@
 ---
 
 ### Tools-tools yang telah dipelajari
-[![My Skills](https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,discord,figma,gcp,git,github,gmail,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,discord,figma,gcp,git,github,gmail,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue)](https://skillicons.dev)
 
 ### Github-Static
 <div align="center">

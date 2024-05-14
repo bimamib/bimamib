@@ -47,7 +47,12 @@
 ---
 
 ### Tools-tools yang telah dipelajari
-[![My Skills](https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue&perline=10)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue&perline=10" />
+  </a>
+</p>
 
 ### Github-Static
 <div align="center">

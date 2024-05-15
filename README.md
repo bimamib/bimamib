@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/bimamib/"></a>
+  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
 </p>
 
 ###

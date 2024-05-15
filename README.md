@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/bimamib/"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bimamib_16" data-color="#bb0c0c" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></a>
+  <a href="https://github.com/bimamib/"></a>
 </p>
 
 ###
@@ -26,7 +26,7 @@
 
 ## Buy me Coffee
 
-<a href="https://saweria.co/bimamib"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://saweria.co/bimamib"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bimamib_16" data-color="#bb0c0c" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></a>
 
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023

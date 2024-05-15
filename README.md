@@ -26,7 +26,7 @@
 
 ## Buy me Coffee
 
-<a href="https://www.buymeacoffee.com/bimamib_16"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<a href="https://saweria.co/bimamib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023

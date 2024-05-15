@@ -24,6 +24,11 @@
 
 ###
 
+## Buy me Coffee
+
+<a href="https://saweria.co/bimamib" target="_blank"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bimaprast1a" data-color="#dd2222" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bimaprast1a" data-color="#dd2222" data-emoji="☕"  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script></a>
+
 ## Pengalaman
    - MSIB Dicoding Cycle 4 2023
       * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)

@@ -9,6 +9,7 @@
 <p align="center">
     <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
 </p>
+    ![image](https://github.com/bimamib/bimamib/assets/120712786/e0461ec5-c231-4703-8670-d96653d6b610)
 
 ---
 

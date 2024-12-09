@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue&perline=10" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue,nextjs&perline=10" />
   </a>
 </p>
 

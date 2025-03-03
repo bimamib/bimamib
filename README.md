@@ -70,4 +70,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14" />
 </p>
 
+<div align="center">
+    
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
+</div>

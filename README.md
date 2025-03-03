@@ -62,12 +62,12 @@
 ### Github-Static
 <div align="center">
    <a href="https://github.com/bimamib">
-     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-   <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight"/></a>
+     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14"/></a>
+   <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"/></a>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight-duo&hide_border=true&border_radius=14" />
 </p>
 
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)

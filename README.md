@@ -62,15 +62,18 @@
 ### Github-Static
 <div align="center">
    <a href="https://github.com/bimamib">
-     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bimamib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14"/></a>
-   <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"/></a>
+       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api? username=bimamib&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14" />
+    </a>
+    <a href="https://github.com/bimamib">
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"/>
+    </a>
 </div>
 
 <br>
 
 <div align="center">
  
-![GitHub Streak](https://github-readme-streak-stats-coral-ten.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155)
+[![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155)](https://git.io/streak-stats)
 
 </div>
 

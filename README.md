@@ -66,11 +66,15 @@
    <a><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight&border_radius=14"/></a>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14" />
-</p>
+<div align="center">
+    
+[![GitHub Streak](https://github-readme-streak-stats-coral-ten.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155)](https://git.io/streak-stats)
+
+</div>
+
 
 <div align="center">
     
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
+
 </div>

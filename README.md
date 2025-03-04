@@ -69,8 +69,12 @@
 <br>
 
 <div align="center">
- <img src="https://github-readme-streak-stats-coral-ten.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155">
+ 
+![GitHub Streak](https://github-readme-streak-stats-coral-ten.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155)
+
 </div>
+
+
 
 
 <div align="center">

@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat-square&color=blue&label=Views"/></a>
+  <a href="https://github.com/bimamib/"><img src="https://komarev.com/ghpvc/?username=bimamib&style=flat&color=blue&label=Views&"/></a>
 </p>
 
 ###
@@ -41,7 +41,7 @@
       * Meniti Karir sebagai Software Developer [Sertifikat](https://www.dicoding.com/certificates/JLX1DGQE5Z72)
       * Menjadi Front-End Developer Expert [Sertifikat](https://www.dicoding.com/certificates/0LZ0945VNZ65)
       * Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW)
-   - Bangkit Academy Batch 2 2023/2024
+   - Bangkit Academy Batch 2 2023
 
 ## Connect With Me
 <p align="center">

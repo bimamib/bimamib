@@ -42,6 +42,7 @@
       * Menjadi Front-End Developer Expert [Sertifikat](https://www.dicoding.com/certificates/0LZ0945VNZ65)
       * Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW)
    - Bangkit Academy Batch 2 2023
+   - Braincore.id 2024
 
 ## Connect With Me
 <p align="center">

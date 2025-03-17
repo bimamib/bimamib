@@ -67,7 +67,7 @@
     </a>
     <a href="https://github.com/bimamib">
         <img height="150em" 
-            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=8&theme=tokyonight"/>
+            src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bimamib&layout=compact&langs_count=14&theme=tokyonight"/>
     </a>
 </div>
 
@@ -75,7 +75,7 @@
 
 <div align="center">
  
-![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=8&card_height=155)
+![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14&card_height=155)
 
 </div>
 

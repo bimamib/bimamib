@@ -86,3 +86,19 @@
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
 
 </div>
+
+<div align="center">
+    
+<img src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+</div>

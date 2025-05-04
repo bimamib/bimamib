@@ -10,7 +10,6 @@
     <img src="https://media.giphy.com/media/ge7l7e5EiHUYI3e71P/giphy.gif" />
 </p>
 
-
 ---
 
 <p align="center">
@@ -30,20 +29,22 @@
 <a href="https://saweria.co/bimamib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ## Pengalaman
-   - MSIB Dicoding Cycle 4 2023
-      * Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)
-      * Pengenalan ke Logika Pemrograman (Programming Logic 101) [Sertifikat](https://www.dicoding.com/certificates/4EXGNWMLQZRL)
-      * Belajar Dasar Git dengan GitHub [Sertifikat](https://www.dicoding.com/certificates/07Z6V22LYXQR)
-      * Belajar Dasar Pemrograman Web [Sertifikat](https://www.dicoding.com/certificates/JMZVNW0OOPN9)
-      * Belajar Dasar Pemrograman JavaScript [Sertifikat](https://www.dicoding.com/certificates/6RPN6EGN8P2M)
-      * Belajar Membuat Front-End Web untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/QLZ92L5V9X5D)
-      * Belajar Fundamental Front-End Web Development [Sertifikat](https://www.dicoding.com/certificates/ERZRG5YQNPYV)
-      * Meniti Karir sebagai Software Developer [Sertifikat](https://www.dicoding.com/certificates/JLX1DGQE5Z72)
-      * Menjadi Front-End Developer Expert [Sertifikat](https://www.dicoding.com/certificates/0LZ0945VNZ65)
-      * Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW)
-   - Bangkit Academy Batch 2 2023
+
+- MSIB Dicoding Cycle 4 2023
+  - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)
+  - Pengenalan ke Logika Pemrograman (Programming Logic 101) [Sertifikat](https://www.dicoding.com/certificates/4EXGNWMLQZRL)
+  - Belajar Dasar Git dengan GitHub [Sertifikat](https://www.dicoding.com/certificates/07Z6V22LYXQR)
+  - Belajar Dasar Pemrograman Web [Sertifikat](https://www.dicoding.com/certificates/JMZVNW0OOPN9)
+  - Belajar Dasar Pemrograman JavaScript [Sertifikat](https://www.dicoding.com/certificates/6RPN6EGN8P2M)
+  - Belajar Membuat Front-End Web untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/QLZ92L5V9X5D)
+  - Belajar Fundamental Front-End Web Development [Sertifikat](https://www.dicoding.com/certificates/ERZRG5YQNPYV)
+  - Meniti Karir sebagai Software Developer [Sertifikat](https://www.dicoding.com/certificates/JLX1DGQE5Z72)
+  - Menjadi Front-End Developer Expert [Sertifikat](https://www.dicoding.com/certificates/0LZ0945VNZ65)
+  - Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW)
+- Bangkit Academy Batch 2 2023
 
 ## Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a>
   <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimamib_16" height="30" width="40" /></a>
@@ -55,11 +56,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue,nextjs&perline=10" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue,nextjs&perline=10&theme=dark" />
   </a>
 </p>
 
 ### Github-Static
+
 <div align="center">
     <a href="https://github.com/bimamib">
         <img height="150em" 
@@ -78,9 +80,6 @@
 ![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14&card_height=155)
 
 </div>
-
-
-
 
 <div align="center">
     

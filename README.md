@@ -28,7 +28,7 @@
 
 <a href="https://saweria.co/bimamib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
-## Pengalaman
+### Pengalaman
 
 - MSIB Dicoding Cycle 4 2023
   - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software [Sertifikat](https://www.dicoding.com/certificates/1OP80GQ2VXQK)

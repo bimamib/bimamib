@@ -91,10 +91,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=bimamib&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
-<div align="center">
     
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
 
@@ -105,7 +101,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-snake.svg" />
-  <img alt="Snake-animation" src="https://raw.githubusercontent.com/bimamib/bimamib/output/github-snake.svg" />
+  <img alt="Snake-animation" src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" />
 </picture>
 
 ###

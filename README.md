@@ -73,15 +73,11 @@
     </a>
 </div> -->
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=bimamib&theme=tokyonight" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimamib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bimamib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=tokyonight&hide_border=true&border_radius=14&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bimamib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics&border_radius=14" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bimamib&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=20&theme=tokyonight&hide_border=true&border_radius=14&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

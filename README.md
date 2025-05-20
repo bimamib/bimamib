@@ -82,8 +82,6 @@
 
 ###
 
-<br>
-
 <div align="center">
  
 ![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14&card_height=155)
@@ -96,13 +94,7 @@
 
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" alt="Snake animation" /> -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/github-snake.svg" />
-  <img alt="Snake-animation" src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" alt="Snake animation" />
 
 ###
 

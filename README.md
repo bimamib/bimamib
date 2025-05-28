@@ -42,7 +42,7 @@
   - Menjadi Front-End Developer Expert [Sertifikat](https://www.dicoding.com/certificates/0LZ0945VNZ65)
   - Belajar Membuat Aplikasi Back-End untuk Pemula [Sertifikat](https://www.dicoding.com/certificates/72ZD804M9ZYW) -->
 - Bangkit Academy Batch 2 2023
-- Braincore.id (Business Process Automation Engineering) 2024
+- Braincore.id - (Business Process Automation Engineering)
 
 ### Connect With Me
 

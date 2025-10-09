@@ -26,7 +26,7 @@
 
 ### Buy me Coffee
 
-<a href="https://saweria.co/bimamib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<a href="https://saweria.co/meyovez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 
 ### Pengalaman
 

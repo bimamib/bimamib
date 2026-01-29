@@ -85,7 +85,7 @@
 
 <div align="center">
  
-![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=15&card_height=155)
+[![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=15&card_height=155)]
 
 </div>
 

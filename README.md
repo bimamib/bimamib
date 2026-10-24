@@ -44,7 +44,7 @@
 - Bangkit Academy Batch 2 2023
 - Braincore.id - (Business Process Automation Engineering) as Freelance
 
-### Connect With Me
+### Connect With Me, and Me
 
 <p align="center">
 <!--   <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a> -->

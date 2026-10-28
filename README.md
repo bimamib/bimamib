@@ -26,7 +26,11 @@
 
 ### Buy me Coffee
 
-<script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/meyovez','https://trakteer.id/images/mix/coffee.png','40');trbtn.draw(trbtnId);})();</script>
+<div align="center">
+  <a href="https://saweria.co/meyovez" target="_blank">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
+  </a>
+</div>
 
 ### Pengalaman
 

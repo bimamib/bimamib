@@ -26,7 +26,7 @@
 
 ### Buy me Coffee
 
-<!-- <a href="https://saweria.co/meyovez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a> -->
+<script type='text/javascript' src='https://edge-cdn.trakteer.id/js/embed/trbtn.min.js?v=14-05-2025'></script><script type='text/javascript'>(function(){var trbtnId=trbtn.init('Dukung Saya di Trakteer','#be1e2d','https://trakteer.id/meyovez','https://trakteer.id/images/mix/coffee.png','40');trbtn.draw(trbtnId);})();</script>
 
 ### Pengalaman
 
@@ -75,9 +75,6 @@
 </div> -->
 
 ###
-
-<h3><code>bimamib@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=bimamib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics&border_radius=15" height="150" alt="stats graph"  />

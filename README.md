@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Commit+Mono&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
+        <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
     </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 ### Buy me Coffee
 
-<a href="https://saweria.co/bimamib"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<!-- <a href="https://saweria.co/meyovez"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a> -->
 
 ### Pengalaman
 
@@ -47,7 +47,7 @@
 ### Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a>
+<!--   <a href="https://linkedin.com/in/bimamib16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/bimamib" height="30" width="40" /></a> -->
   <a href="https://instagram.com/bimamib_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bimamib_16" height="30" width="40" /></a>
 </p>
 
@@ -77,15 +77,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimamib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics&border_radius=14" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bimamib&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=20&theme=tokyonight&hide_border=true&border_radius=14&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=bimamib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=My%20GitHub%20Statistics&border_radius=15" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bimamib&locale=en&hide_title=false&layout=compact&card_width=330&langs_count=20&theme=tokyonight&hide_border=true&border_radius=15&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
  
-![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=14&card_height=155)
+![GitHub Streak](https://github-readme-streak-stats-alpha-three-46.vercel.app?user=bimamib&theme=tokyonight&hide_border=true&border_radius=15&card_height=155)
 
 </div>
 

@@ -2,11 +2,14 @@
 #!/usr/bin/env python3
 """
 GitHub Contribution Heatmap
+
+Features:
 - A year in blue heading
 - Refreshed daily label
 - Month labels above the calendar
 - Weekday labels on the left
 - Less / More contribution legend
+- Total contributions
 - Roboto and Roboto Mono embedded in SVG
 - Light and dark mode support
 - Animated contribution cells
@@ -27,6 +30,7 @@ import urllib.request
 
 USER = os.environ.get("GH_PROFILE_USER", "bimamib")
 
+# Save SVG in repository root
 OUT = os.path.abspath(
     os.path.join(
         os.path.dirname(os.path.abspath(__file__)),
@@ -63,6 +67,10 @@ FONTS = [
 
 
 def get(url):
+    """
+    Download a resource from a URL.
+    """
+
     headers = {
         "User-Agent": "profile-heatmap-bot/1.0"
     }
@@ -80,6 +88,10 @@ def get(url):
 
 @functools.lru_cache(maxsize=None)
 def font(file):
+    """
+    Download WOFF2 font and encode it as Base64.
+    """
+
     data = get(
         f"https://cdn.jsdelivr.net/fontsource/fonts/{file}.woff2"
     )
@@ -91,20 +103,22 @@ def font(file):
 # CONTRIBUTION COLORS
 # ============================================================
 
+# Dark mode colors
 DARK = [
-    "#161b22",
-    "#102a56",
-    "#174ea6",
-    "#2563eb",
-    "#60a5fa",
+    "#161b22",  # Level 0
+    "#102a56",  # Level 1
+    "#174ea6",  # Level 2
+    "#2563eb",  # Level 3
+    "#60a5fa",  # Level 4
 ]
 
+# Light mode colors
 LIGHT = [
-    "#ebedf0",
-    "#dbeafe",
-    "#93c5fd",
-    "#3b82f6",
-    "#1d4ed8",
+    "#ebedf0",  # Level 0
+    "#dbeafe",  # Level 1
+    "#93c5fd",  # Level 2
+    "#3b82f6",  # Level 3
+    "#1d4ed8",  # Level 4
 ]
 
 
@@ -125,6 +139,7 @@ GRID_TOP = HEADER_H + MONTH_H
 
 BOTTOM_H = 36
 
+# Animation timing
 COL_T = 0.065
 ROW_T = 0.036
 
@@ -134,12 +149,16 @@ ROW_T = 0.036
 # ============================================================
 
 CSS = (
-    # Main heading
+
+    # --------------------------------------------------------
+    # MAIN HEADING
+    # --------------------------------------------------------
+
     ".heading{"
     "font-family:Georgia,serif;"
     "font-size:30px;"
     "font-weight:400;"
-    "fill:var(--heading)"
+    "fill:#e6edf3"
     "}"
 
     ".heading-blue{"
@@ -147,7 +166,10 @@ CSS = (
     "font-style:italic"
     "}"
 
-    # Refreshed daily
+    # --------------------------------------------------------
+    # REFRESHED DAILY
+    # --------------------------------------------------------
+
     ".refreshed{"
     "font-family:'Roboto Mono',monospace;"
     "font-size:13px;"
@@ -156,21 +178,30 @@ CSS = (
     "fill:#7d8590"
     "}"
 
-    # Month and weekday labels
+    # --------------------------------------------------------
+    # MONTH AND WEEKDAY LABELS
+    # --------------------------------------------------------
+
     ".lbl{"
     "fill:#7d8590;"
     "font-size:13px;"
     "font-weight:600"
     "}"
 
-    # Total contributions
+    # --------------------------------------------------------
+    # TOTAL CONTRIBUTIONS
+    # --------------------------------------------------------
+
     ".total{"
-    "fill:var(--total);"
+    "fill:#e6edf3;"
     "font-size:13px;"
     "font-weight:700"
     "}"
 
-    # Legend
+    # --------------------------------------------------------
+    # LESS / MORE LEGEND
+    # --------------------------------------------------------
+
     ".legend-label{"
     "fill:#7d8590;"
     "font-family:'Roboto Mono',monospace;"
@@ -178,7 +209,10 @@ CSS = (
     "font-weight:600"
     "}"
 
-    # Contribution cells
+    # --------------------------------------------------------
+    # CONTRIBUTION CELLS
+    # --------------------------------------------------------
+
     ".c{"
     "transform-box:fill-box;"
     "transform-origin:center;"
@@ -191,36 +225,42 @@ CSS = (
     "flash .7s ease-out both"
     "}"
 
-    # Animation
+    # --------------------------------------------------------
+    # POP ANIMATION
+    # --------------------------------------------------------
+
     "@keyframes pop{"
     "0%{opacity:0;transform:scale(.2)}"
     "60%{opacity:1;transform:scale(1.1)}"
     "100%{opacity:1;transform:scale(1)}"
     "}"
 
+    # --------------------------------------------------------
+    # FLASH ANIMATION
+    # --------------------------------------------------------
+
     "@keyframes flash{"
     "0%,45%{filter:brightness(2.4)}"
     "100%{filter:brightness(1)}"
     "}"
 
-    # Dark mode
-    ":root{"
-    "--heading:#1f2328;"
-    "--total:#1f2328"
-    "}"
+    # --------------------------------------------------------
+    # DARK MODE COLORS
+    # --------------------------------------------------------
 
     + "".join(
         f".l{i}{{fill:{c}}}"
         for i, c in enumerate(DARK)
     )
 
-    # Light mode
+    # --------------------------------------------------------
+    # LIGHT MODE COLORS
+    # --------------------------------------------------------
+
     + "@media (prefers-color-scheme:light){"
 
-    ":root{"
-    "--heading:#1f2328;"
-    "--total:#1f2328"
-    "}"
+    ".heading{fill:#1f2328}"
+    ".total{fill:#1f2328}"
 
     + "".join(
         f".l{i}{{fill:{c}}}"
@@ -229,7 +269,10 @@ CSS = (
 
     + "}"
 
-    # Accessibility
+    # --------------------------------------------------------
+    # ACCESSIBILITY
+    # --------------------------------------------------------
+
     "@media (prefers-reduced-motion:reduce){"
     ".c{opacity:1!important;animation:none!important}"
     "}"
@@ -237,7 +280,7 @@ CSS = (
 
 
 # ============================================================
-# FETCH CONTRIBUTION DATA
+# FETCH GITHUB CONTRIBUTION DATA
 # ============================================================
 
 def fetch_days():
@@ -256,7 +299,7 @@ def fetch_days():
 
     cells = {}
 
-    # Extract calendar cells
+    # Extract contribution calendar cells
     for td in re.findall(
         r"<td[^>]*ContributionCalendar-day[^>]*>",
         page
@@ -284,7 +327,7 @@ def fetch_days():
                 "count": 0
             }
 
-    # Extract contribution counts
+    # Extract contribution counts from tooltips
     for cid, text in re.findall(
         r'<tool-tip[^>]*for="([^"]+)"[^>]*>([^<]*)</tool-tip>',
         page
@@ -458,6 +501,7 @@ def render(days):
 
     # --------------------------------------------------------
     # TOTAL CONTRIBUTIONS
+    # Positioned at bottom left
     # --------------------------------------------------------
 
     total = sum(
@@ -477,15 +521,18 @@ def render(days):
 
     # --------------------------------------------------------
     # LESS / MORE LEGEND
+    # Positioned at bottom right
     # --------------------------------------------------------
 
     legend_y = h - 19
+
     legend_cell = 13
     legend_step = 17
 
     legend_width = 163
     legend_x = w - legend_width
 
+    # Less label
     p.append(
         f'<text class="legend-label" '
         f'x="{legend_x}" '
@@ -506,6 +553,7 @@ def render(days):
             f'rx="2.5"/>'
         )
 
+    # More label
     p.append(
         f'<text class="legend-label" '
         f'x="{legend_x + 40 + 5 * legend_step + 5}" '
@@ -515,7 +563,7 @@ def render(days):
     )
 
     # --------------------------------------------------------
-    # EMBED FONTS
+    # EMBED FONTS INTO SVG
     # --------------------------------------------------------
 
     body = "".join(p)
@@ -553,6 +601,7 @@ if __name__ == "__main__":
 
     svg = render(days)
 
+    # Write SVG output
     with open(
         OUT,
         "w",

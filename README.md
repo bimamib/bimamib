@@ -93,6 +93,11 @@
 
 </div>
 
+###
+
+<h3><code>bimamib@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+
 <div align="center">
     
 ![readmebox animation](https://raw.githubusercontent.com/bimamib/bimamib/main/readmebox.svg)
@@ -102,17 +107,3 @@
 ### Game Stats
 
 <img src="https://raw.githubusercontent.com/bimamib/bimamib/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <h3><code>bimamib@github ~ $ ./contributions.sh</code></h3>
-  <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-###

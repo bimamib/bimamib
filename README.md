@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
+        <img src="https://readme-typing-svg.demolab.com?font=CommitMono&pause=1000&color=FFBB5C&center=true&width=435&lines=Hallo+Everyone!;My+Name+Bima+Prasetio;Welcome+to+My+Profile+GitHub;Nice+to+Meet+You!" alt="Bimss Running Teks" />
     </a>
 </div>
 
@@ -26,11 +26,11 @@
 
 ### Buy me Coffee
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://saweria.co/meyovez" target="_blank">
     <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=bimamib_16&button_colour=741a1a&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" />
   </a>
-</div>
+</div>  -->
 
 ### Pengalaman
 
@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue,nextjs&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,bootstrap,cpp,css,figma,gcp,git,github,gradle,html,htmx,js,kotlin,mysql,nodejs,npm,pycharm,py,pytorch,react,tailwind,ts,vscode,webpack,vue,nextjs,prisma,supabase,postgres&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -108,6 +108,7 @@
 <div align="center">
 <h3><code>bimamib@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimamib/bimamib/output/pacman-contribution-graph.svg">
